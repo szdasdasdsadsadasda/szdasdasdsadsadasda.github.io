@@ -72,10 +72,11 @@ button:hover {
 }
 
 img.logo {
-    width: 600px;
-    max-width: 90vw;
+    width: 750px;
+    max-width: 95vw;
     height: auto;
-    margin-bottom: 40px;
-    margin-top: 40px;
+    margin: 60px auto 40px auto;
+    display: block;
 }
+
 
